@@ -1,0 +1,8 @@
+# Python virtual environment
+env/
+
+# Frontend Node Modules 
+frontend/node_modules/
+
+# Python cache files
+backend/__pycache__/
