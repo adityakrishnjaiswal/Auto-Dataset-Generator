@@ -28,7 +28,7 @@ Ensure you have the following installed on your system:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/adityakrishnjaiswal/Auto-Dataset-Generator/
-   cd AutoDatasetGenerator
+   cd Auto-Dataset-Generator
    ```
 
 2. **Set up the backend**:
