@@ -1,0 +1,41 @@
+AutoDatasetGenerator License  
+Version 1.0, 2024  
+
+Copyright (c) 2024 Aditya Krishn Jaiswal  
+
+This license governs the use, modification, and distribution of the software tool AutoDatasetGenerator (the "Software") created by Aditya Krishn Jaiswal. By using this Software, you agree to abide by the terms outlined in this license.  
+
+1. Permission and Use  
+The Software is provided for personal, academic, and commercial use. You are allowed to:  
+- Use the Software to create annotated datasets for object detection projects.  
+- Modify the Software to suit your requirements.  
+- Share and distribute unaltered or modified versions of the Software.  
+- Integrate the Software with other tools or projects.  
+
+2. Restrictions  
+- You may not misrepresent the Software as your own creation. Proper attribution to the original author (Aditya Krishn Jaiswal) is required.  
+- Distribution of the Software or its derivatives must include this license in its entirety.  
+- You must not use the Software for unlawful or harmful purposes, including but not limited to the creation of datasets for malicious applications.  
+
+3. Attribution  
+All public or shared use of the Software, including modified versions or tools derived from it, must include the following acknowledgment:  
+“This project is based on AutoDatasetGenerator, originally developed by Aditya Krishn Jaiswal (2024).”  
+
+4. Warranty Disclaimer  
+The Software is provided "AS IS" without any express or implied warranties, including but not limited to warranties of merchantability, fitness for a particular purpose, or non-infringement. The author is not responsible for any claims, damages, or other liabilities resulting from the use or inability to use the Software.  
+
+5. Liability Limitation  
+Under no circumstances shall the author or contributors be held liable for any direct, indirect, incidental, or consequential damages arising from the use of the Software.  
+
+6. Modifications and Contributions  
+Users are encouraged to modify and improve the Software. Contributions made to the original project must:  
+- Be submitted via pull request to the project's official repository.  
+- Include proper documentation and testing.  
+
+Contributors retain ownership of their changes but grant the author a perpetual, irrevocable license to use and distribute these modifications as part of the Software.  
+
+7. Termination  
+This license is perpetual unless terminated. Any violation of the terms outlined above will result in the automatic termination of this license. Upon termination, you must cease all use and distribution of the Software.  
+
+8. Governing Law  
+This license shall be governed and interpreted according to the laws of India, without regard to its conflict of law principles.  
